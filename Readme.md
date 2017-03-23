@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Максим Блинов](https://up.htmlacademy.ru/javascript/9/user/392903).
-* Наставник: `Неизвестно`.
+* Наставник:[Андрей Фатюк].
 
 ---
 
